@@ -22,9 +22,9 @@ network={
 7. SSH into the Pi with username pi and password mofos2010
 8. Change password with the passwd command
 9. If you want to change the pages that are being rotated:
-  9a. Run vi /home/pi/kiosk.sh
-  9b. Edit the line below # Run Chromium and open tabs with the urls you want in each tab (separated by a space)
-  9c. If you want to change rotation timing change the sleep 15 command to however many seconds you want in the same file
+  - Run vi /home/pi/kiosk.sh
+  - Edit the line below # Run Chromium and open tabs with the urls you want in each tab (separated by a space)
+  - If you want to change rotation timing change the sleep 15 command to however many seconds you want in the same file
 10. sudo reboot your pi
 
 If you have any questions contact refriedchicken in the #queen-creek Slack channel.
