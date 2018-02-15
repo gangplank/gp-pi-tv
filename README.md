@@ -17,7 +17,7 @@ network={
     psk="walktheplank"
 }
 ```
-5. Enable SSH but placing a blank file name ssh (no extension) in the boot directory/partition
+5. Enable SSH by placing a blank file named ssh (no extension) in the boot directory/partition
 6. Put SD Card in Pi Zero W and connect to TV.
 7. SSH into the Pi with username pi and password mofos2010
 8. Change password with the passwd command
