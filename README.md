@@ -27,3 +27,6 @@ network={
 10. sudo reboot your pi
 
 If you have any questions contact refriedchicken in the #queen-creek Slack channel.
+
+
+DOWNLOAD THE INITIAL IMAGE HERE: https://s3-us-west-2.amazonaws.com/refriedchicken/gangplank/pi-images/gp-tv-pi.img
